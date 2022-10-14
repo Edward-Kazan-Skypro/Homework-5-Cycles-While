@@ -104,7 +104,6 @@ public class Main {
         int fiveFriday = firstFriday + 28;
 
         for (i = currentDay ; i <=31; i++) {
-
             if (i == firstFriday ||
                 i == secondFriday ||
                 i == thirdFriday ||
